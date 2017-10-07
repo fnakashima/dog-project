@@ -16,3 +16,4 @@ bottleneck_features/valid.npy
 bottleneck_features/valid_OH.npy
 __MACOSX
 *.npz
+__pycache__
